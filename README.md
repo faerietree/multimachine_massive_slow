@@ -24,9 +24,9 @@ Context
 * HOG  - HOchGeschwindigkeit (lightweight, medium volume, high velocity)
     * <a href="https://forum.opensourceecology.de/viewtopic.php?f=28&t=619">3D PlaDruMas (PUS - Printer Uniprokit Speedy)</a> [UniProKit Parts + Belts]
 * HOF  - HOchFestigkeit (massive, medium to huge, slow)
-    * <a href="https://forum.opensourceecology.de/viewtopic.php?f=30&p=3132#p3132">4D FräDreMas (MUS - Mill Universally Scalable Variant Sheets)</a> [Scrap + precision manufactured massive metal and plexiglas sheets]
+    * <a href="http://forum.opensourceecology.de/viewtopic.php?f=30&t=617">4D FräDreMas (MUS - Mill Universally Scalable Variant Sheets)</a> [Scrap + precision manufactured massive metal and plexiglas sheets]
 * HOFHOG - Best of both worlds (scalable, tiny to giant, probably slow).
-    * <a href="https://forum.opensourceecology.de/viewtopic.php?f=30&p=3132#p3132">4D CiPriMa (MUS - Mill Universally Scalable Variant Crossings)</a> [Easy to source parts (U-profiles, flat/sheet profiles, symmetric parts!, few different parts!)]
+    * <a href="http://forum.opensourceecology.de/viewtopic.php?f=30&t=617">4D CiPriMa (MUS - Mill Universally Scalable Variant Crossings)</a> [Easy to source parts (U-profiles, flat/sheet profiles, symmetric parts!, few different parts!)]
 
 
 ###Current development status:###
@@ -56,7 +56,7 @@ The steel plates of the previous design were much too heavy to lift. And so expe
 * employ  a Z-axis that is sliding on the X-axis,
 * and a Y-axis that is sliding on the Z-axis construction,
 * so that the Z-axis is very rigid and 
-* it's possible to mount all tools as there will not occur twisting due to too long lever (Archimedes) or vibrating.[/list]
+* it's possible to mount all tools as there will not occur twisting due to too long lever (Archimedes) or vibrating.
 
 The way the twist-protection works has benefits but also downsides as more rods and lead screws (ACME or usual rods) are requried.
 It's a base structure where any tools can be employed

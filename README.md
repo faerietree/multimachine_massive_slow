@@ -22,7 +22,7 @@ Context
 ###There are two distinct 3D manufacturing machines under development + 1 hybrid:###
 
 * HOG  - HOchGeschwindigkeit (lightweight, medium volume, high velocity)
-* <a href="https://forum.opensourceecology.de/viewtopic.php?f=28&t=619">3D PlaDruMas (PUS - Printer Uniprokit Speedy)</a> [UniProKit Parts + Belts]
+    * <a href="https://forum.opensourceecology.de/viewtopic.php?f=28&t=619">3D PlaDruMas (PUS - Printer Uniprokit Speedy)</a> [UniProKit Parts + Belts]
 * HOF  - HOchFestigkeit (massive, medium to huge, slow)
     * <a href="https://forum.opensourceecology.de/viewtopic.php?f=30&p=3132#p3132">4D FräDreMas (MUS - Mill Universally Scalable Variant Sheets)</a> [Scrap + precision manufactured massive metal and plexiglas sheets]
 * HOFHOG - Best of both worlds (scalable, tiny to giant, probably slow).
@@ -30,11 +30,11 @@ Context
 
 
 ###Current development status:###
-[list][*] Sourcing parts for HOFHOG. Engineering a Linux based solution.[/list]
+* Sourcing parts for HOFHOG. Engineering a Linux based solution.
 
-[u]Current prototype under evaluation:[/u]
+###Current prototype under evaluation:###
 <!-- <img href="http://forum.opensourceecology.de/download/file.php?id=59" alt="" title=""/> -->
-[CiPriMa Structure Overview!](multimachine_universally_scalable.white.axis_coloured_rgb.all_axes.jpg "CiPriMa Structure Overview! All sides symmetric and equal.")
+![CiPriMa Structure Overview](multimachine_universally_scalable.white.axis_coloured_rgb.all_axes.jpg "CiPriMa Structure Overview! All sides symmetric and equal.")
 
 All 4 side structures (five with the roof) are completely the same! Simplifies assembly. The cross structure makes it rigid.
 

@@ -1,0 +1,132 @@
+
+24x	 	Nut_M10                       	 	Material: silver               	 	[x:19.63m,y:17.0m,z:7.5m]
+1x 	 	corner_interconnect           	 	Material: silver          	 		[x:0.0m,y:0.0m,z:0.0m]
+4x 	 	Leadscrew                     	 	Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]
+25x	 	Sheet_Profile                 	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:5.0m]
+1x 	 	y_axis_direction_assembly           Material: -                    	 	[x:180.0m,y:81.41m,z:81.41m]
+2x 	 	square_slider                       Material: GreenMetallicPaint   	 	[x:80.0m,y:81.41m,z:81.41m]
+1x 	 	Leadscrew                           Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]
+5x 	 	U_Profile                     	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:105.0m]
+5x 	 	Nut                           	 	Material: silver               	 	[x:30.02m,y:26.0m,z:14.0m]
+24x	 	Bolt_M10_L120                 	 	Material: DarkGrayMetallicPaint	 	[x:19.63m,y:17.0m,z:123.41m]
+4x 	 	Leadscrew_Vertical            	 	Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]
+1x 	 	side_assembly                 	 	Material: -        		       	 	[x:1520.0m,y:1484.93m,z:212.0m]
+1x 	 	Slider_Square                       Material: scratched_metal      	 	[x:180.0m,y:81.41m,z:81.41m]
+1x 	 	Leadscrew_Vertical                  Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]
+2x 	 	Cylinder                      	 	Material: RedMetallicPaint	 		[x:1500.0m,y:80.0m,z:80.0m]
+4x 	 	corner_interconnect_bottom    	 	Material: silver               	 	[x:100.0m,y:123.9m,z:123.9m]
+4x 	 	Leadscrew_Vertical            	 	Material: -                    	 	[x:110.34m,y:111.42m,z:1520.0m]
+2x 	 	slide_rod                     	 	Material: RedMetallicPaint	 		[x:1500.0m,y:80.0m,z:80.0m]
+1x 	 	y_axis_slide__x_direction_moving_structure	 	Material: GreenMetallicPaint   	 	[x:80.0m,y:161.0m,z:1520.0m]
+4x 	 	U_Beam_And_Interconnect_Cube  	 	Material: -                    	 	[x:2014.79m,y:217.0m,z:149.59m]
+2x 	 	Slider_Square                       Material: GreenMetallicPaint   	 	[x:80.0m,y:81.41m,z:81.41m]
+3x 	 	side_assembly                 	 	Material: -                    	 	[x:1520.0m,y:1484.93m,z:212.0m]
+12x	 	Cube                          	 	Material: silver               	 	[x:100.0m,y:100.0m,z:100.0m]
+1x 	 	Beam_And_Interconnect_Cubes   	 	Material: -                    	 	[x:2000.0m,y:100.0m,z:5.0m]
+5x 	 	Bolt                          	 	Material: silver               	 	[x:30.02m,y:26.0m,z:38.6m]
+3x 	 	corner_interconnect           	 	Material: silver               	 	[x:0.0m,y:0.0m,z:0.0m]
+4x 	 	Beam_And_Interconnect_Cubes   	 	Material: -                    	 	[x:1484.93m,y:1484.92m,z:123.9m]
+4x 	 	corner_interconnect_bottom    	 	Material: silver               	 	[x:123.9m,y:100.0m,z:123.9m]
+1x 	 	axis_x_direction_slide        	 	Material: -     	 				[x:1500.0m,y:1410.0m,z:80.0m]
+1x 	 	roof_or_bottom_assembly       	 	Material: -                    	 	[x:1484.93m,y:1484.96m,z:129.89m]
+1x 	 	U_Beam_And_Interconnect_Cube  	 	Material: -                    	 	[x:2000.0m,y:100.0m,z:105.0m]
+1x 	 	y_direction_axis_structure          Material: GreenMetallicPaint   	 	[x:1400.0m,y:81.41m,z:81.41m]
+8x 	 	Beltdisk                      	 	Material: DarkGrayMetallicPaint	 	[x:112.5m,y:112.5m,z:30.0m]
+1x 	 	Y_Direction_Slide_Holder_Structure  Material: GreenMetallicPaint   	 	[x:2000.0m,y:56.99m,z:81.41m]
+1x 	 	y_axis_direction_moving_structure   Material: scratched_metal      	 	[x:180.0m,y:81.41m,z:81.41m]
+24x	 	corner_interconnection_bolting	 	Material: DarkGrayMetallicPaint	 	[x:19.63m,y:17.0m,z:123.9m]
+5x 	 	beams_diagonal_interconnection	 	Material: silver               	 	[x:30.02m,y:26.0m,z:38.6m]
+
+======= ASSEMBLIES: ======
+-------
+	 	beams_diagonal_interconnection	 	Material: silver               	 	[x:30.02m,y:26.0m,z:38.6m]:
+5x 	 	Bolt                          	 	Material: silver               	 	[x:30.02m,y:26.0m,z:38.6m]
+5x 	 	Nut                           	 	Material: silver               	 	[x:30.02m,y:26.0m,z:14.0m]
+-------
+	 	Beltdisk                      	 	Material: DarkGrayMetallicPaint	 	[x:112.5m,y:112.5m,z:30.0m]:
+4x 	 	Beltdisk                      	 	Material: DarkGrayMetallicPaint	 	[x:112.5m,y:112.5m,z:30.0m]
+-------
+	 	Sheet_Profile                 	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:5.0m]:
+5x 	 	Sheet_Profile                 	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:5.0m]
+-------
+	 	y_axis_direction_assembly           Material: -                    	 	[x:180.0m,y:81.41m,z:81.41m]:
+1x 	 	y_axis_direction_moving_structure   Material: scratched_metal      	 	[x:180.0m,y:81.41m,z:81.41m]
+-------
+	 	square_slider                       Material: GreenMetallicPaint   	 	[x:80.0m,y:81.41m,z:81.41m]:
+2x 	 	Slider_Square                       Material: GreenMetallicPaint   	 	[x:80.0m,y:81.41m,z:81.41m]
+-------
+	 	U_Profile                     	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:105.0m]:
+15x 	Sheet_Profile                 	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:5.0m]
+-------
+	 	slide_rod                     	 	Material: RedMetallicPaint	 		[x:1500.0m,y:80.0m,z:80.0m]:
+2x 	 	Cylinder                      	 	Material: RedMetallicPaint	 		[x:1500.0m,y:80.0m,z:80.0m]
+-------
+	 	U_Beam_And_Interconnect_Cube  	 	Material: -                	 		[x:2000.0m,y:100.0m,z:105.0m]:
+1x 	 	U_Profile                     	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:105.0m]
+-------
+	 	Leadscrew_Vertical            	 	Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]:
+4x 	 	Leadscrew                     	 	Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]
+-------
+	 	side_assembly                 	 	Material: -               	 		[x:1520.0m,y:1484.93m,z:212.0m]:
+1x 	 	corner_interconnect           	 	Material: silver          	 		[x:0.0m,y:0.0m,z:0.0m]
+-------
+	 	y_direction_axis_structure          Material: GreenMetallicPaint   		[x:1400.0m,y:81.41m,z:81.41m]:
+1x 	 	Y_Direction_Slide_Holder_Structure  Material: GreenMetallicPaint   	 	[x:2000.0m,y:56.99m,z:81.41m]
+-------
+	 	roof_or_bottom_assembly       	 	Material: -                	 		[x:1484.93m,y:1484.96m,z:129.89m]:
+1x 	 	beams_diagonal_interconnection	 	Material: silver               	 	[x:30.02m,y:26.0m,z:38.6m]
+1x 	 	U_Beam_And_Interconnect_Cube  	 	Material: -                    	 	[x:2000.0m,y:100.0m,z:105.0m]
+1x 	 	Beam_And_Interconnect_Cubes   	 	Material: -                    	 	[x:2000.0m,y:100.0m,z:5.0m]
+-------
+	 	Leadscrew_Vertical             	 	Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]:
+1x 	 	Leadscrew                      	 	Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]
+-------
+	 	U_Beam_And_Interconnect_Cube  	 	Material: -                	 		[x:2014.79m,y:217.0m,z:149.59m]:
+4x 	 	U_Profile                     	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:105.0m]
+4x 	 	corner_interconnect_bottom    	 	Material: silver               	 	[x:123.9m,y:100.0m,z:123.9m]
+-------
+	 	side_assembly                 	 	Material: -                	 		[x:1520.0m,y:1484.93m,z:212.0m]:
+4x 	 	beams_diagonal_interconnection	 	Material: silver               	 	[x:30.02m,y:26.0m,z:38.6m]
+4x 	 	U_Beam_And_Interconnect_Cube  	 	Material: -                    	 	[x:2014.79m,y:217.0m,z:149.59m]
+3x 	 	corner_interconnect           	 	Material: silver               	 	[x:0.0m,y:0.0m,z:0.0m]
+4x 	 	Leadscrew_Vertical            	 	Material: -                    	 	[x:110.34m,y:111.42m,z:1520.0m]
+4x 	 	Beam_And_Interconnect_Cubes   	 	Material: -                    	 	[x:1484.93m,y:1484.92m,z:123.9m]
+-------
+	 	corner_interconnect_bottom    	 	Material: silver               	 	[x:100.0m,y:123.9m,z:123.9m]:
+8x 	 	corner_interconnection_bolting	 	Material: DarkGrayMetallicPaint	 	[x:19.63m,y:17.0m,z:123.9m]
+4x 	 	Cube                          	 	Material: silver               	 	[x:100.0m,y:100.0m,z:100.0m]
+-------
+	 	Beam_And_Interconnect_Cubes   	 	Material: -                    	 	[x:2000.0m,y:100.0m,z:5.0m]:
+1x 	 	Sheet_Profile                 	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:5.0m]
+-------
+	 	corner_interconnect           	 	Material: silver               	 	[x:0.0m,y:0.0m,z:0.0m]:
+8x 	 	corner_interconnection_bolting	 	Material: DarkGrayMetallicPaint	 	[x:19.63m,y:17.0m,z:123.9m]
+4x 	 	Cube                          	 	Material: silver               	 	[x:100.0m,y:100.0m,z:100.0m]
+-------
+	 	Beam_And_Interconnect_Cubes   	 	Material: -                    	 	[x:1484.93m,y:1484.92m,z:123.9m]:
+4x 	 	Sheet_Profile                 	 	Material: copper               	 	[x:2000.0m,y:100.0m,z:5.0m]
+4x 	 	corner_interconnect_bottom    	 	Material: silver               	 	[x:100.0m,y:123.9m,z:123.9m]
+-------
+	 	corner_interconnect_bottom    	 	Material: silver               	 	[x:123.9m,y:100.0m,z:123.9m]:
+8x 	 	corner_interconnection_bolting	 	Material: DarkGrayMetallicPaint	 	[x:19.63m,y:17.0m,z:123.9m]
+4x 	 	Cube                          	 	Material: silver               	 	[x:100.0m,y:100.0m,z:100.0m]
+-------
+	 	axis_x_direction_slide        	 	Material: -                 	 	[x:1500.0m,y:1410.0m,z:80.0m]:
+2x 	 	slide_rod                     	 	Material: RedMetallicPaint	 	    [x:1500.0m,y:80.0m,z:80.0m]
+-------
+	 	y_axis_direction_moving_structure   Material: scratched_metal      	 	[x:180.0m,y:81.41m,z:81.41m]:
+1x 	 	Slider_Square                       Material: scratched_metal      	 	[x:180.0m,y:81.41m,z:81.41m]
+-------
+	 	Leadscrew_Vertical            	 	Material: -                	 		[x:110.34m,y:111.42m,z:1520.0m]:
+4x 	 	Beltdisk                      	 	Material: DarkGrayMetallicPaint	 	[x:112.5m,y:112.5m,z:30.0m]
+4x 	 	Leadscrew_Vertical            	 	Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]
+-------
+	 	corner_interconnection_bolting	 	Material: DarkGrayMetallicPaint	 	[x:19.63m,y:17.0m,z:123.9m]:
+24x 	 	Nut_M10                       	Material: silver               	 	[x:19.63m,y:17.0m,z:7.5m]
+24x 	 	Bolt_M10_L120                 	Material: DarkGrayMetallicPaint	 	[x:19.63m,y:17.0m,z:123.41m]
+-------
+	 	y_axis_slide__x_direction_moving_structure	 	Material: GreenMetallicPaint   	 	[x:80.0m,y:161.0m,z:1520.0m]:
+2x 	 	square_slider                       Material: GreenMetallicPaint   	 	[x:80.0m,y:81.41m,z:81.41m]
+1x 	 	y_direction_axis_structure          Material: GreenMetallicPaint   	 	[x:1400.0m,y:81.41m,z:81.41m]
+1x 	 	Leadscrew_Vertical                  Material: SkyMetallicPaint     	 	[x:28.87m,y:25.0m,z:1520.0m]
+

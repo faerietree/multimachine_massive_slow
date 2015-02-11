@@ -34,8 +34,7 @@ Context
 * Sourcing parts for HOFHOG. Engineering a Linux based solution.
 
 ###Current prototype under evaluation:###
-<!-- <img href="http://forum.opensourceecology.de/download/file.php?id=59" alt="" title=""/> -->
-![CiPriMa Structure Overview](multimachine_universally_scalable.white.axis_coloured_rgb.all_axes.jpg "CiPriMa Structure Overview! All sides symmetric and equal.")
+![CiPriMa Structure Overview](multimachine_universally_scalable.jpg "CiPriMa Structure Overview! All sides symmetric and equal.")
 
 All 4 side structures (five with the roof) are completely the same! Simplifies assembly. The cross structure makes it rigid.
 

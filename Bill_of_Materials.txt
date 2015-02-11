@@ -1,210 +1,228 @@
-  #	Label                                          	Material              			Dimensions
-  -	-----                                          	---------             			----------
+  #  	Label                                          	Material              	Dimensions
+  -  	-----                                          	---------             	----------
 
-  2x 	Slide_square_beam                              	Material: RedMetallicPaint     	[1.0km x 79.0m x 79.0m]
-  5x 	Sheet_Profile                                  	Material: copper               	[2.0km x 100.0m x 4.0m]
-  5x 	U_Profile                                      	Material: copper               	[2.0km x 100.0m x 104.0m]
- 24x 	Nut                                            	Material: scratched_metal      	[22.0m x 19.0m x 10.0m]
- 82x 	Nut_M10                                        	Material: silver               	[20.0m x 17.0m x 8.0m]
-  5x 	Bolt                                           	Material: BlueMetallicPaint    	[16.0m x 16.0m x 1.0km]
- 24x 	Bolt_M10_L120                                  	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 123.0m]
-  5x 	Bolt                                           	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 28.0m]
-  2x 	Slider_Square                                  	Material: GreenMetallicPaint   	[80.0m x 81.0m x 81.0m]
- 12x 	Cube                                           	Material: rubber               	[100.0m x 100.0m x 100.0m]
-  1x 	Slider_Square                                  	Material: scratched_metal      	[180.0m x 81.0m x 81.0m]
-  1x 	Y_Direction_Slide_Holder_Structure             	Material: GreenMetallicPaint   	[2.0km x 57.0m x 81.0m]
+  1x 	U_or_Rectangle_beam                            	GreenMetallicPaint   	[2km x 57m x 81m]
+
+  7x 	Leadscrew                                      	BlueMetallicPaint    	[16m x 16m x 1km]
+
+  1x 	Rectangle_beam                                 	scratched_metal      	[180m x 81m x 81m]
+
+  5x 	Bolt_M10                                       	DarkGrayMetallicPaint	[20m x 17m x 28m]
+
+ 58x 	Nut_M10                                        	silver               	[20m x 17m x 8m]
+
+  2x 	Rectangle_beam                                 	RedMetallicPaint     	[1km x 79m x 79m]
+
+ 12x 	Cube                                           	rubber               	[100m x 100m x 100m]
+
+  8x 	Sheet_beam                                     	copper               	[2km x 100m x 4m]
+
+ 24x 	Bolt_M10                                       	DarkGrayMetallicPaint	[20m x 17m x 123m]
+
+  4x 	U_beam                                         	copper               	[2km x 100m x 104m]
+
+ 26x 	Nut_M16                                        	scratched_metal      	[22m x 19m x 10m]
+
+  2x 	Slider_Square                                  	GreenMetallicPaint   	[80m x 81m x 81m]
+
+  6x 	Rectangle_beam                                 	RedMetallicPaint     	[70m x 79m x 79m]
+
 
 
 ======= ASSEMBLIES: ======
 --------------
-  5x 	Leadscrew_Vertical                             	Material: BlueMetallicPaint    	[16.0m x 16.0m x 1.0km]:
+  7x 	Leadscrew_Vertical                             	BlueMetallicPaint    	[16m x 16m x 1km]:
 -------
-  1x 	Bolt                                           	Material: BlueMetallicPaint    	[16.0m x 16.0m x 1.0km]
+  1x 	Leadscrew                                      	BlueMetallicPaint    	[16m x 16m x 1km]
 --------------
 
 
 --------------
-  1x 	Beam_And_Interconnect_Cubes                    	Material: -                    	[2.0km x 100.0m x 4.0m]:
+  1x 	y_axis_direction_assembly                      	-                    	[180m x 81m x 81m]:
 -------
-  1x 	Sheet_Profile                                  	Material: copper               	[2.0km x 100.0m x 4.0m]
+  1x 	y_axis_direction_moving_structure              	scratched_metal      	[180m x 81m x 81m]
 --------------
 
 
 --------------
-  8x 	Nut                                            	Material: scratched_metal      	[22.0m x 19.0m x 10.0m]:
+ 12x 	Nut                                            	scratched_metal      	[22m x 19m x 10m]:
 -------
-  1x 	Nut                                            	Material: scratched_metal      	[22.0m x 19.0m x 10.0m]
+  1x 	Nut_M16                                        	scratched_metal      	[22m x 19m x 10m]
 --------------
 
 
 --------------
-  4x 	beams_diagonal_interconnection                 	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 29.0m]:
+  6x 	motor_mount                                    	-                    	[70m x 79m x 79m]:
 -------
-  1x 	Bolt                                           	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 28.0m]
-  2x 	Nut                                            	Material: silver               	[20.0m x 17.0m x 8.0m]
+  0x 	Rectangle_beam                                 	RedMetallicPaint     	[4m x 79m x 79m]
+  1x 	Rectangle_beam                                 	RedMetallicPaint     	[70m x 79m x 79m]
 --------------
 
 
 --------------
-  2x 	square_slider                                  	Material: GreenMetallicPaint   	[80.0m x 81.0m x 81.0m]:
+  5x 	beams_diagonal_interconnection                 	DarkGrayMetallicPaint	[20m x 17m x 29m]:
 -------
-  1x 	Slider_Square                                  	Material: GreenMetallicPaint   	[80.0m x 81.0m x 81.0m]
+  1x 	Bolt_M10                                       	DarkGrayMetallicPaint	[20m x 17m x 28m]
+  2x 	Nut                                            	silver               	[20m x 17m x 8m]
 --------------
 
 
 --------------
-  4x 	corner_interconnect_bottom                     	Material: rubber               	[100.0m x 123.0m x 123.0m]:
+  2x 	slide                                          	RedMetallicPaint     	[1km x 78m x 98m]:
 -------
-  1x 	Cube                                           	Material: rubber               	[100.0m x 100.0m x 100.0m]
-  2x 	corner_interconnection_bolting                 	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 123.0m]
+  1x 	Rectangle_beam                                 	RedMetallicPaint     	[1km x 79m x 79m]
+  4x 	Nut                                            	scratched_metal      	[22m x 19m x 10m]
 --------------
 
 
 --------------
-  4x 	side_assembly                                  	Material: -                    	[1.0km x 1.0km x 212.0m]:
+  1x 	roof_or_bottom_assembly                        	-                    	[1km x 1km x 110m]:
 -------
-  1x 	Leadscrew_Vertical                             	Material: -                    	[22.0m x 19.0m x 1.0km]
-  1x 	beams_diagonal_interconnection                 	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 29.0m]
-  1x 	corner_interconnect                            	Material: rubber               	[-mm x -mm x -mm]
-  1x 	Beam_And_Interconnect_Cubes                    	Material: -                    	[1.0km x 1.0km x 123.0m]
-  1x 	U_Beam_And_Interconnect_Cube                   	Material: -                    	[2.0km x 216.0m x 148.0m]
+  1x 	Beam_And_Interconnect_Cubes                    	-                    	[2km x 100m x 4m]
+  1x 	U_Beam_And_Interconnect_Cube                   	copper               	[2km x 100m x 104m]
+  1x 	beams_diagonal_interconnection                 	DarkGrayMetallicPaint	[20m x 17m x 29m]
 --------------
 
 
 --------------
-  2x 	slide_rod                                      	Material: RedMetallicPaint     	[1.0km x 78.0m x 98.0m]:
+ 58x 	Nut                                            	silver               	[20m x 17m x 8m]:
 -------
-  1x 	Slide_square_beam                              	Material: RedMetallicPaint     	[1.0km x 79.0m x 79.0m]
-  4x 	Nut                                            	Material: scratched_metal      	[22.0m x 19.0m x 10.0m]
+  1x 	Nut_M10                                        	silver               	[20m x 17m x 8m]
 --------------
 
 
 --------------
- 16x 	Nut_M16                                        	Material: scratched_metal      	[22.0m x 19.0m x 10.0m]:
+  4x 	U_Beam_And_Interconnect_Cube                   	-                    	[2km x 216m x 148m]:
 -------
-  1x 	Nut                                            	Material: scratched_metal      	[22.0m x 19.0m x 10.0m]
+  1x 	corner_interconnect_bottom                     	rubber               	[-mm x -mm x -mm]
+  1x 	U_beam                                         	copper               	[2km x 100m x 104m]
 --------------
 
 
 --------------
-  1x 	y_direction_axis_structure                     	Material: GreenMetallicPaint   	[1.0km x 81.0m x 81.0m]:
+  4x 	side_assembly                                  	-                    	[1km x 1km x 212m]:
 -------
-  1x 	Y_Direction_Slide_Holder_Structure             	Material: GreenMetallicPaint   	[2.0km x 57.0m x 81.0m]
+  1x 	Sheet_Beam_And_Interconnect_Cube               	-                    	[1km x 1km x 123m]
+  1x 	corner_interconnect                            	rubber               	[-mm x -mm x -mm]
+  1x 	Leadscrew_Vertical                             	-                    	[22m x 19m x 1km]
+  1x 	beams_diagonal_interconnection                 	DarkGrayMetallicPaint	[20m x 17m x 29m]
+  1x 	U_Beam_And_Interconnect_Cube                   	-                    	[2km x 216m x 148m]
 --------------
 
 
 --------------
-  1x 	roof_or_bottom_assembly                        	Material: -                    	[1.0km x 1.0km x 110.0m]:
+  4x 	corner_interconnect_bottom                     	rubber               	[-mm x -mm x -mm]:
 -------
-  1x 	U_Beam_And_Interconnect_Cube                   	Material: -                    	[2.0km x 100.0m x 104.0m]
-  1x 	beams_diagonal_interconnection                 	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 28.0m]
-  1x 	Beam_And_Interconnect_Cubes                    	Material: -                    	[2.0km x 100.0m x 4.0m]
+  1x 	Cube                                           	rubber               	[100m x 100m x 100m]
+  2x 	corner_interconnection_bolting                 	DarkGrayMetallicPaint	[20m x 17m x 123m]
 --------------
 
 
 --------------
-  1x 	y_axis_direction_assembly                      	Material: -                    	[180.0m x 81.0m x 81.0m]:
+  1x 	U_Beam_And_Interconnect_Cube                   	copper               	[2km x 100m x 104m]:
 -------
-  1x 	y_axis_direction_moving_structure              	Material: scratched_metal      	[180.0m x 81.0m x 81.0m]
+  3x 	Sheet_beam                                     	copper               	[2km x 100m x 4m]
 --------------
 
 
 --------------
- 24x 	corner_interconnection_bolting                 	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 123.0m]:
+  4x 	corner_interconnect_bottom                     	rubber               	[100m x 123m x 123m]:
 -------
-  3x 	Nut                                            	Material: silver               	[20.0m x 17.0m x 8.0m]
-  1x 	Bolt_M10_L120                                  	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 123.0m]
+  1x 	Cube                                           	rubber               	[100m x 100m x 100m]
+  2x 	corner_interconnection_bolting                 	DarkGrayMetallicPaint	[20m x 17m x 123m]
 --------------
 
 
 --------------
-  1x 	U_Beam_And_Interconnect_Cube                   	Material: -                    	[2.0km x 100.0m x 104.0m]:
+ 14x 	Nut_M16                                        	scratched_metal      	[22m x 19m x 10m]:
 -------
-  1x 	U_Profile                                      	Material: copper               	[2.0km x 100.0m x 104.0m]
+  1x 	Nut_M16                                        	scratched_metal      	[22m x 19m x 10m]
 --------------
 
 
 --------------
-  5x 	Sheet_Profile                                  	Material: copper               	[2.0km x 100.0m x 4.0m]:
+  1x 	axis_x_direction_slide                         	-                    	[98m x 1km x 1km]:
 -------
-  1x 	Sheet_Profile                                  	Material: copper               	[2.0km x 100.0m x 4.0m]
+  2x 	slide                                          	RedMetallicPaint     	[1km x 78m x 98m]
+  4x 	motor_mount                                    	-                    	[70m x 79m x 79m]
+  2x 	Leadscrew_Vertical                             	-                    	[22m x 19m x 1km]
 --------------
 
 
 --------------
- 82x 	Nut                                            	Material: silver               	[20.0m x 17.0m x 8.0m]:
+  1x 	y_axis_slide__x_direction_moving_structure     	GreenMetallicPaint   	[80m x 161m x 1km]:
 -------
-  1x 	Nut_M10                                        	Material: silver               	[20.0m x 17.0m x 8.0m]
+  2x 	square_slider                                  	GreenMetallicPaint   	[125m x 109m x 80m]
+  1x 	y_direction_axis_structure                     	GreenMetallicPaint   	[1km x 57m x 81m]
+  2x 	motor_mount                                    	-                    	[70m x 79m x 79m]
+  1x 	Leadscrew_Vertical                             	-                    	[22m x 19m x 1km]
 --------------
 
 
 --------------
-  1x 	axis_x_direction_slide                         	Material: -                    	[1.0km x 1.0km x 98.0m]:
+  2x 	square_slider                                  	GreenMetallicPaint   	[125m x 109m x 80m]:
 -------
-  2x 	slide_rod                                      	Material: RedMetallicPaint     	[1.0km x 78.0m x 98.0m]
+  2x 	Nut                                            	scratched_metal      	[22m x 19m x 10m]
+  1x 	Slider_Square                                  	GreenMetallicPaint   	[80m x 81m x 81m]
 --------------
 
 
 --------------
-  4x 	corner_interconnect                            	Material: rubber               	[-mm x -mm x -mm]:
+  4x 	corner_interconnect                            	rubber               	[-mm x -mm x -mm]:
 -------
-  1x 	Cube                                           	Material: rubber               	[100.0m x 100.0m x 100.0m]
-  2x 	corner_interconnection_bolting                 	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 123.0m]
+  1x 	Cube                                           	rubber               	[100m x 100m x 100m]
+  2x 	corner_interconnection_bolting                 	DarkGrayMetallicPaint	[20m x 17m x 123m]
 --------------
 
 
 --------------
-  4x 	corner_interconnect_bottom                     	Material: rubber               	[124.0m x 100.0m x 123.0m]:
+  7x 	Leadscrew_Vertical                             	-                    	[22m x 19m x 1km]:
 -------
-  1x 	Cube                                           	Material: rubber               	[100.0m x 100.0m x 100.0m]
-  2x 	corner_interconnection_bolting                 	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 123.0m]
+  2x 	Nut_M16                                        	scratched_metal      	[22m x 19m x 10m]
+  1x 	Leadscrew_Vertical                             	BlueMetallicPaint    	[16m x 16m x 1km]
 --------------
 
 
 --------------
-  4x 	Leadscrew_Vertical                             	Material: -                    	[22.0m x 19.0m x 1.0km]:
+  1x 	y_axis_direction_moving_structure              	scratched_metal      	[180m x 81m x 81m]:
 -------
-  1x 	Leadscrew_Vertical                             	Material: BlueMetallicPaint    	[16.0m x 16.0m x 1.0km]
-  4x 	Nut_M16                                        	Material: scratched_metal      	[22.0m x 19.0m x 10.0m]
+  1x 	Rectangle_beam                                 	scratched_metal      	[180m x 81m x 81m]
 --------------
 
 
 --------------
-  4x 	Beam_And_Interconnect_Cubes                    	Material: -                    	[1.0km x 1.0km x 123.0m]:
+  5x 	Sheet_beam                                     	copper               	[2km x 100m x 4m]:
 -------
-  1x 	corner_interconnect_bottom                     	Material: rubber               	[100.0m x 123.0m x 123.0m]
-  1x 	Sheet_Profile                                  	Material: copper               	[2.0km x 100.0m x 4.0m]
+  1x 	Sheet_beam                                     	copper               	[2km x 100m x 4m]
 --------------
 
 
 --------------
-  1x 	beams_diagonal_interconnection                 	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 28.0m]:
+  4x 	Sheet_Beam_And_Interconnect_Cube               	-                    	[1km x 1km x 123m]:
 -------
-  1x 	Bolt                                           	Material: DarkGrayMetallicPaint	[20.0m x 17.0m x 28.0m]
-  2x 	Nut                                            	Material: silver               	[20.0m x 17.0m x 8.0m]
+  1x 	Sheet_beam                                     	copper               	[2km x 100m x 4m]
+  1x 	corner_interconnect_bottom                     	rubber               	[100m x 123m x 123m]
 --------------
 
 
 --------------
-  1x 	y_axis_direction_moving_structure              	Material: scratched_metal      	[180.0m x 81.0m x 81.0m]:
+  1x 	Beam_And_Interconnect_Cubes                    	-                    	[2km x 100m x 4m]:
 -------
-  1x 	Slider_Square                                  	Material: scratched_metal      	[180.0m x 81.0m x 81.0m]
+  1x 	Sheet_beam                                     	copper               	[2km x 100m x 4m]
 --------------
 
 
 --------------
-  4x 	U_Beam_And_Interconnect_Cube                   	Material: -                    	[2.0km x 216.0m x 148.0m]:
+ 24x 	corner_interconnection_bolting                 	DarkGrayMetallicPaint	[20m x 17m x 123m]:
 -------
-  1x 	U_Profile                                      	Material: copper               	[2.0km x 100.0m x 104.0m]
-  1x 	corner_interconnect_bottom                     	Material: rubber               	[124.0m x 100.0m x 123.0m]
+  2x 	Nut                                            	silver               	[20m x 17m x 8m]
+  1x 	Bolt_M10                                       	DarkGrayMetallicPaint	[20m x 17m x 123m]
 --------------
 
 
 --------------
-  1x 	y_axis_slide__x_direction_moving_structure     	Material: GreenMetallicPaint   	[80.0m x 161.0m x 1.0km]:
+  5x 	Rectangle_beam                                 	RedMetallicPaint     	[70m x 79m x 79m]:
 -------
-  1x 	y_direction_axis_structure                     	Material: GreenMetallicPaint   	[1.0km x 81.0m x 81.0m]
-  1x 	Leadscrew_Vertical                             	Material: BlueMetallicPaint    	[16.0m x 16.0m x 1.0km]
-  2x 	square_slider                                  	Material: GreenMetallicPaint   	[80.0m x 81.0m x 81.0m]
+  1x 	Rectangle_beam                                 	RedMetallicPaint     	[70m x 79m x 79m]
 --------------
 

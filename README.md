@@ -1,11 +1,4 @@
-MUS - Multimachine Universally Scalable (massive or light)
-===========
-
-4d PlaDruMas - 4 degree of freedom Platinen Druck Maschine
-------------
-
-4d CiPriMa - 4 degree of freedom Circuit Print Machine
-------------
+# multimachine massive slow
 
 
 * A scalable multimachine.
@@ -18,9 +11,12 @@ MUS - Multimachine Universally Scalable (massive or light)
 <img alt="" title=""/>
 
 
-Context
-----
-###There are two distinct 3D manufacturing machines under development + 1 hybrid:###
+
+## Context
+
+
+
+### There are two distinct 3D manufacturing machines under development + 1 hybrid
 
 * HOG  - HOchGeschwindigkeit (lightweight, medium volume, high velocity)
     * <a href="https://forum.opensourceecology.de/viewtopic.php?f=28&t=619">3D PlaDruMas (PUS - Printer Uniprokit Speedy)</a> [UniProKit Parts + Belts]
@@ -30,10 +26,13 @@ Context
     * <a href="http://forum.opensourceecology.de/viewtopic.php?f=30&t=617">4D CiPriMa (MUS - Mill Universally Scalable Variant Crossings)</a> [Easy to source parts (U-profiles, flat/sheet profiles, symmetric parts!, few different parts!)]
 
 
-###Current development status:###
+
+### Development status
 * Sourcing parts for HOFHOG. Engineering a Linux based solution.
 
-###Current prototype under evaluation:###
+
+
+### Prototype under evaluation
 ![CiPriMa Structure Overview](multimachine_universally_scalable.jpg "CiPriMa Structure Overview! All sides symmetric and equal.")
 
 All 4 side structures (five with the roof) are completely the same! Simplifies assembly. The cross structure makes it rigid.
@@ -45,8 +44,7 @@ The steel plates of the previous design were much too heavy to lift. And so expe
 
 
 
-
-###Goals and design considerations:###
+### Goals and design considerations
 
 * Save structural parts,
 * keep the sliding axes open at the bottom side (to allow long parts being stuck through level on the ground for better fixing),
@@ -63,7 +61,9 @@ The steel plates of the previous design were much too heavy to lift. And so expe
 * The way the twist-protection works has benefits but also downsides as more rods and lead screws (ACME or usual rods) are required.
 * Allow employing any tools on the base structure.
 
-###This machine can be built/equipped as a: (from cheaper to more expensive, top to bottom)###
+
+
+### This machine can be built/equipped as a (from cheaper to more expensive, top to bottom)
 
 * Circuit mill: low weight & small, hence more precise.
 * 3D printer common size: build it using very light material.

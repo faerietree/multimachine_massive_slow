@@ -14,16 +14,7 @@
 
 ## Context
 
-
-
-### There are two distinct 3D manufacturing machines under development + 1 hybrid
-
-* HOG  - HOchGeschwindigkeit (lightweight, medium volume, high velocity)
-    * <a href="https://forum.opensourceecology.de/viewtopic.php?f=28&t=619">3D PlaDruMas (PUS - Printer Uniprokit Speedy)</a> [UniProKit Parts + Belts]
-* HOF  - HOchFestigkeit (massive, medium to huge, slow)
-    * <a href="http://forum.opensourceecology.de/viewtopic.php?f=30&t=617">4D FräDreMas (MUS - Mill Universally Scalable Variant Sheets)</a> [Scrap + precision manufactured massive metal and plexiglas sheets]
-* HOFHOG - Best of both worlds (scalable, tiny to giant, probably slow).
-    * <a href="http://forum.opensourceecology.de/viewtopic.php?f=30&t=617">4D CiPriMa (MUS - Mill Universally Scalable Variant Crossings)</a> [Easy to source parts (U-profiles, flat/sheet profiles, symmetric parts!, few different parts!)]
+<a href="https://github.com/worlddevelopment/manufacturing/blob/master/multimachine.md">Types</a>
 
 
 
